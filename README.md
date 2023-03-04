@@ -4,9 +4,13 @@ I'm junior developer interested in learning more about web and mobile applicatio
 
 <section>
   <div>
+    <p>
     ⚡<b>Languages</b>: <i>JavaScript</i> - <i>Java</i> - <i>Python</i> - <i>HTML5 | CSS3</i><br>  
     ⚡<b>Technology</b>: <i>React</i> - <i>React Native</i> - <i>Next.js</i> - <i>Bootstrap</i> - <i>MJML Framework</i><br>
     ⚡<b>Tools</b>: <i>Marketing Cloud (Salesforce)</i>
+    </p>
+    <img align="center" alt="img-profile" width="100" src="https://github.com/douglasrodrigwes/douglasrodrigwes/blob/e21eb1f401c5400a8603100ae28b5ea9afb385ef/download%20(3).jpg">
+    
    </div
    <div>
       <img align="center" alt="img-profile" width="100" src="https://github.com/douglasrodrigwes/douglasrodrigwes/blob/e21eb1f401c5400a8603100ae28b5ea9afb385ef/download%20(3).jpg">
