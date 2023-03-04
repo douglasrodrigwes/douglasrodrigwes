@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=DCF2DE&width=435&lines=Douglas+Rodrigues)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=E2F2A7&width=435&lines=Douglas+Rodrigues)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
@@ -11,7 +11,7 @@ I'm junior developer interested in learning more about web and mobile applicatio
     ⚡<b>Tools</b>: <i>Marketing Cloud (Salesforce)</i>
    </div>
    <div>
-      <img align="right" alt="img-profile" width="100" src="https://github.com/douglasrodrigwes/douglasrodrigwes/blob/e21eb1f401c5400a8603100ae28b5ea9afb385ef/download%20(3).jpg">
+      <img align="right" alt="img-profile" width="100" src="https://github.com/douglasrodrigwes/douglasrodrigwes/blob/e21eb1f401c5400a8603100ae28b5ea9afb385ef/download%20(3).jpg"/>
    </div>
 </section>
 
