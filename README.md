@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm junior developer interested in learning more about web and mobile application development, with solid knowledge in front-end development. And I'm currently a student of UX and UI design in my spare time, always trying to combine an application with a good user experience.
+
+⚡Languages 
+  - <i>JavaScript</i>
+  - <i>Java</i>
+  - <i>Python</i>
 <!--
 **douglasrodrigwes/douglasrodrigwes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
