@@ -10,7 +10,7 @@ I'm junior developer interested in learning more about web and mobile applicatio
     ⚡<b>Tools</b>: <i>Marketing Cloud (Salesforce)</i>
    </div>
    <div>
-      <img align="right" alt="img-profile" width="100" src="https://github.com/douglasrodrigwes/douglasrodrigwes/blob/e21eb1f401c5400a8603100ae28b5ea9afb385ef/download%20(3).jpg"/>
+      <img align="right" alt="img-profile" width="100" src="https://github.com/douglasrodrigwes/douglasrodrigwes/blob/074c4ccbcf436606cb70414463fd7227e0b00f23/download%20(4).png"/>
    </div>
 </section>
 
